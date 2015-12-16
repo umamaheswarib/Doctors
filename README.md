@@ -1,6 +1,8 @@
 Doctors Web Application
 ========================
 
+[![Join the chat at https://gitter.im/umamaheswarib/Doctors](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/umamaheswarib/Doctors?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a web application for managing medical pre-operation and post-operation for patients and cases. Doctors login, create patient and case profiles. The application allows managing medical cases and the different users of the aplication (admin, simple user, manager). This application uses Symfony version 2.5 and AJAX for an enhanced user experience. 
 
 This software is perfectly suited for cosmetic surgons,dermatologists, and hospitals who need to share or train doctors or students.
